@@ -1968,6 +1968,7 @@ backdrop-filter: blur( 4px );
 
   #main{
     display: none;
+    overflow-x: hidden;
   }
 
   .main-homee{
